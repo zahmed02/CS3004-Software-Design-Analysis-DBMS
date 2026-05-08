@@ -1,6 +1,8 @@
-# Software Design & Analysis/Object-Oriented Analysis & Design 
-# Car Warehousing Management System
+CS3004 Software Design & Analysis
 
+## Instructor & Project Supervisor: Engr. Abdul Rahman
+
+## Overview
 Comprehensive software engineering documentation and design specifications for a vehicle warehousing management platform.
 
 ## Repository Contents
