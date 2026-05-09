@@ -1,6 +1,6 @@
 # CS3004 Software Design & Analysis
 
-## Instructor & Project Supervisor: Engr. Abdul Rahman
+## Instructor: Engr. Abdul Rahman
 
 ## Overview
 Comprehensive software engineering documentation and design specifications for a vehicle warehousing management platform.
